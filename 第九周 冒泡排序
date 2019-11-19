@@ -28,8 +28,11 @@ int main(){
 	return 0;	
 }
 
+void swap(int&x,int&y){             //这里是引用                     
+	int tem;  tem=x;   x=y;   y=tem; 	
+}
 
-
-void swap(int&x,int&y){
-	int tem;  tem=x;   x=y;   y=tem;	
+//还可以传入指针
+/*  void swap(int*x,int*y){
+	int tem; tem=*x;   *x=*y;    *y=tem;
 }
