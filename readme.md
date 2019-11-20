@@ -1,5 +1,6 @@
 # 前言 
-这是数据结构时，所记录下来的代码
+This is the code I recorded when I was learning the data structure.</br>
+Hope you like it
 
 
 ## 第八周
