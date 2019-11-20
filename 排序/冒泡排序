@@ -22,3 +22,4 @@ void Swap(int&x,int&y){             //这里是引用
 	int tem; tem=*x;   *x=*y;    *y=tem;
 }
   
+ 
