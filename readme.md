@@ -6,4 +6,4 @@
 
 
 # Sort
-[BubbleSort](https://github.com/hcn486/mooc/blob/master/排序/冒泡排序)       [InsertionSort](https://github.com/hcn486/mooc/blob/master/排序/插入排序)
+[BubbleSort](https://github.com/hcn486/Data-structure-and-Algorithm/blob/master/排序/冒泡排序.c++)       [InsertionSort](https://github.com/hcn486/mooc/blob/master/排序/插入排序)
