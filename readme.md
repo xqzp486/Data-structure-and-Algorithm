@@ -5,4 +5,4 @@
 ## 第八周
 
 ## 排序
-[冒泡排序](https://github.com/hcn486/mooc/blob/master/第九周%20冒泡排序)
+[冒泡排序](https://github.com/hcn486/mooc/blob/master/排序/冒泡排序)
